@@ -1,8 +1,8 @@
 {
-  "name": "@RILLYZY/libsignal-node",
+  "name": "@lkbX999/libsignal-node",
   "version": "2.0.1",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "RILLYZY/libsignal-node", 
+  "repository": "lkbX999/libsignal-node", 
   "main": "index.js",
   "keywords": [
     "signal",
